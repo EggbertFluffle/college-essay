@@ -1,0 +1,6 @@
+Harrison DiAmbrosio
+Mrs. Esposito
+College Essay
+August 1, 2023
+	To most of the public, computers seem like sheer magic. But there's a difference between people who simply use magic and the curious minds who make it. In my 7th grade class, Project Lead the Way, we worked on a multitude of projects and smaller lessons covering STEM-related topics. These included touch typing proficiency, 3D modeling with Autodesk Inventor, and even an introduction to creating web pages using HTML using the Atom text editor. Although I thoroughly enjoyed the class, the bell always rang too soon, leaving me craving more. Mr. Gerdes never had enough curriculum to give me, so I took it upon myself to quench this thirst and started by poking around the computers in the lab. 
+It didn't take me long to find a program that shared a resemblance with Atom, Processing 3. It used a monospaced font, had line numbers on the left-hand side, and a landscape of empty, alternating white and light grey lines. Just a glance and my hands seemed to take on a life of their own, yearning to send the blinking cursor flying to the right with my own code trailing behind. The only problem was, I didn't know any code.
